@@ -1,0 +1,1 @@
+CREATE DATABASE random_numbers_db;
